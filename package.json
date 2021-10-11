@@ -1,0 +1,16 @@
+{
+  "name": "pblog",
+  "version": "1.0.0",
+  "description": "Personal blog",
+  "main": "index.njk",
+  "scripts": {
+
+  },
+  "keywords": ["blog", "eleventy"],
+  "author": "Michael-Bryant Choa <mbchoa@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "clean-css": "^5.2.1"
+  }
+}
