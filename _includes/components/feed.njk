@@ -1,0 +1,15 @@
+<section>
+  <h2 class="visually-hidden">Posts, page 1 of 21</h2>
+  <ul class="feed" role="list">
+    {% for post in collections.post %}
+      <li class="feed__item">
+        <article class="stack">
+          <h3>
+            <a href="{{ post.data.date | postUrlSlug }}">{{ post.data.date | postTitle }}</a>
+          </h3>
+          {{ post.data.content | safe}}
+        </article>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

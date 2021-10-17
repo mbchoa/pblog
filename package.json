@@ -2,15 +2,26 @@
   "name": "pblog",
   "version": "1.0.0",
   "description": "Personal blog",
-  "main": "index.njk",
   "scripts": {
     "start": "eleventy --serve"
   },
-  "keywords": ["blog", "eleventy"],
-  "author": "Michael-Bryant Choa <mbchoa@gmail.com>",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbchoa/pblog"
+  },
+  "keywords": [
+    "blog",
+    "eleventy"
+  ],
+  "author": {
+    "name": "Michael-Bryant Choa",
+    "email": "mbchoa@gmail.com",
+    "url": "https://michaelchoa.com"
+  },
+  "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "clean-css": "^5.2.1"
+    "clean-css": "^5.2.1",
+    "date-fns": "^2.25.0"
   }
 }
