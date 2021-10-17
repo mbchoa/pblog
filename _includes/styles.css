@@ -82,6 +82,7 @@ a {
 .footer-nav-links {
   display: flex;
   justify-content: center;
+  padding: 0;
 }
 
 .footer-nav-links > * + *::before {
