@@ -16,4 +16,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('postUrlSlug', (dateISOString) => {
 		return new Date(dateISOString).getTime();
   });
+
+  // Instructs Eleventy compilation to ignore processing the following
+  // directories and only copy them as is
+  eleventyConfig.addPassthroughCopy('images/uploads');
+  eleventyConfig.addPassthroughCopy('admin');
 };
