@@ -5,6 +5,9 @@ backend:
 media_folder: "_site/images/uploads"
 public_folder: "/images/uploads"
 
+# Allows us to save posts as drafts
+publish_mode: editorial_workflow
+
 collections:
   - name: "posts"
     label: "Posts"
@@ -14,5 +17,5 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "date", widget: "date", default: "" }
+      - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
