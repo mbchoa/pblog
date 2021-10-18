@@ -1,7 +1,7 @@
 <section>
   <h2 class="visually-hidden">Posts, page 1 of 21</h2>
   <ul class="feed" role="list">
-    {% for post in collections.post %}
+    {% for post in collections.post | reverse %}
       <li class="feed__item">
         <article class="stack">
           <h3>
