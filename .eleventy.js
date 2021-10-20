@@ -19,6 +19,6 @@ module.exports = function (eleventyConfig) {
 
   // Instructs Eleventy compilation to ignore processing the following
   // directories and only copy them as is
-  eleventyConfig.addPassthroughCopy('images/uploads');
+  eleventyConfig.addPassthroughCopy({'static/icons': '/'});
   eleventyConfig.addPassthroughCopy('admin');
 };
