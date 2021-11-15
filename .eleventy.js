@@ -1,7 +1,7 @@
 const axios = require('axios');
 const CleanCss = require('clean-css');
 const heicConvert = require('heic-convert');
-const format = require('date-fns/format');
+const { format, utcToZonedTime } = require('date-fns-tz');
 
 module.exports = function (eleventyConfig) {
 	// Minifies CSS
@@ -11,7 +11,7 @@ module.exports = function (eleventyConfig) {
 
 	// Date formatting (human readable)
 	eleventyConfig.addFilter('postTitle', (dateISOString) => {
-    return format(new Date(dateISOString), "MMMM do 'at' h:mmaa")
+    return format(utcToZonedTime(new Date(dateISOString), 'America/Los_Angeles'), "MMMM do 'at' h:mmaaa");
   });
 
   // Date formatting (machine readable)
