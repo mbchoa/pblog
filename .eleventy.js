@@ -11,7 +11,8 @@ module.exports = function (eleventyConfig) {
 
 	// Date formatting (human readable)
 	eleventyConfig.addFilter('postTitle', (dateISOString) => {
-    return format(utcToZonedTime(new Date(dateISOString), 'America/Los_Angeles'), "MMMM do 'at' h:mmaaa");
+    const losAngelesDate = utcToZonedTime(new Date(dateISOString), 'America/Los_Angeles');
+    return format(losAngelesDate, "MMMM do 'at' h:mmaaa", { timeZone: 'America/Los_Angeles' });
   });
 
   // Date formatting (machine readable)
