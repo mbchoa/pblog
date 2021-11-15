@@ -24,6 +24,7 @@
     "axios": "^0.24.0",
     "clean-css": "^5.2.1",
     "date-fns": "^2.25.0",
+    "date-fns-tz": "^1.1.6",
     "heic-convert": "^1.2.4"
   }
 }
