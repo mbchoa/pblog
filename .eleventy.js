@@ -31,7 +31,6 @@ module.exports = function (eleventyConfig) {
     
     const jpegBase64 = outputBuffer.toString('base64');
     const attributesString = imgAttr.reduce((output, attribute) => `${output} ${attribute}`, '');
-    console.log(attributesString);
     return `<img src="data:image/jpeg;base64, ${jpegBase64}" ${attributesString}>`;
   });
 
