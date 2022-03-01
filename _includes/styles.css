@@ -67,10 +67,6 @@ h3 {
   max-width: 30ch;
 }
 
-p {
-  max-width: 60ch;
-}
-
 h1 a {
   text-decoration: none;
 }
@@ -82,10 +78,6 @@ a {
 ul {
   margin: 0;
   padding: 0;
-}
-
-article > * {
-  max-width: 60ch;
 }
 
 .visually-hidden {
