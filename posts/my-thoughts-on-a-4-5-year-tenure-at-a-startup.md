@@ -11,5 +11,7 @@ date: 2022-08-14T07:49:03.231Z
 # 4. Ideas are great, but they're just the tip of the iceberg.
 # 5. Managers have a hard job.
 # 6. Documentation done well is a game changer.
-# 7. Unattended toxicity is like rust, unaddressed, it can wreak havoc on a team
-# 8. 
+# 7. Unattended toxicity is like rust, unaddressed, it can wreak havoc on a team.
+# 8. Objectivity is a muscle that needs to be regularly exercised.
+# 9. Pay very close attention to pain points.
+# 10. 
