@@ -14,4 +14,7 @@ date: 2022-08-14T07:49:03.231Z
 ### 7. Unattended toxicity is like rust, unaddressed, it can wreak havoc on a team.
 ### 8. Objectivity is a muscle that needs to be regularly exercised.
 ### 9. Pay very close attention to pain points.
-### 10. 
+### 10. Fail as early as you can as often as you can (within reason of course).
+### 11. Legacy code is not dogma
+### 12. "Absorb what is useful. Reject what is useless. Add what is essentially your own."
+### 13. 
