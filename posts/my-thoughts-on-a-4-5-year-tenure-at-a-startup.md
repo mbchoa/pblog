@@ -7,11 +7,15 @@ date: 2022-08-14T07:49:03.231Z
 
 ### 1. Be kind.
 
-This one's kind of a no-brainer, but I find that it bears mentioning. And I don't mean being superficially kind. I mean genuine kindness. The problem is we're all human beings and we all have to deal with our own...stuff. Some people are good at separating work from the personal, but realistically they bleed into each other. 
+This one's kind of a no-brainer, but I find that it bears mentioning. And I don't mean being superficially kind. I mean genuine kindness. The problem is we're all human beings and we all have to deal with our own...stuff. Some people are good at separating work from the personal, but realistically they bleed into each other. There are a lot of cynics, and passive-aggressive (read: "sassy") people who choose to focus on the negative. I won't mince my words.
+
+It is a fucking drain.
+
+I'm certainly not prescribing there to be a right or wrong way to interact with your peers. But, whatever happened to "engineering with empathy"? I've also realized that it's *frighteningly* easy to fall prey to unknowingly contributing to the negativity.
 
 ### 2. But don't be too kind :trollface:.
 
-In another life, I was very much a "yes" man. It was almost like a race from the moment something was asked of me to the moment I responded. 
+In another life, I was very much a "yes" man. It was almost like a race from the moment something was asked of me to the moment I responded. One takeaway from working at this startup was actually learning how to say no. I learned to have a healthy dose of skepticism when it came to breaking down how to build a product or feature. I also learned the importance of leaning on standards and best practices and using them as leverage when push comes to shove.
 
 ### 3. There are learners and there are 9-to-5'ers.
 
@@ -21,11 +25,19 @@ Am I making sweeping generalizations that may or may not be true while simultane
 
 *Abso-freaking-lutely!* 
 
-
+I guess what I'm trying to get at is that it's hard to find other like-minded people who have a desire to be lifelong learners day in and day out. Work is not just a means to an end, it's also a place of constant learning.
 
 ### 4. Ideas are great, but they're just the tip of the iceberg.
 
+I firsthand saw how an idea became reality. Working at an established company, I've found that it was surprisingly hard for an idea to materialize into actual pointed work in the backlog. A lot of the "pre-work", or if we're talking about this iceberg metaphor, what's underneath the water, involves a lot of pulling and tugging on the "right" people. Who the "right" people are, takes some sleuthing to figure out. But, sometimes even that's not enough. Sometimes you need a bit of luck as well. Sometimes you need to be obnoxious. I've noticed that the people who complained the most and more importantly, the most *frequently* seemed to garner the biggest audience. 
 
+"X sucks, I hate working on this legacy system."
+
+"Well, you seem distressed, what should we do?"
+
+"Let's rearchitect the system using Y and Z."
+
+A blatantly simplistic example, but, it captures the essence of it. There's a lot of pre-work needed to mobilize ideas. There are also varying approaches to getting an idea mobilized.
 
 ### 5. Managers have a hard job.
 
