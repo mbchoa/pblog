@@ -1,6 +1,6 @@
 ---
-title: My thoughts on a 4.5 year tenure at a startup
-description: Job retrospective
+title: My thoughts on a 4.5 year tenure at a startup, Part I
+description: Job retrospective part 1
 date: 2022-08-14T07:49:03.231Z
 ---
 4.5 years is a pretty good tenure at a tech startup. I'd like to rummage through my thoughts while they're still fresh on my mind. A lot of this will be just organic and a stream of consciousness of ideas that I can hopefully organize into a personal collection of standards and principles with which I can look back on and refer to.
@@ -51,16 +51,4 @@ I've yet to encounter a manager who was well-rounded, both technically and inter
 
 All of this is pretty subjective and I recognize that any relationship, be it at work or in our personal lives, is a two-way street, so this is certainly not meant to be a knock on these wonderful people. Writing these experiences down is also not an admission of self-perfection because I am nowhere remotely to be being that. This is a bow in recognition of imperfection. I want to be hopeful of meeting a colleague who shows genuine care and can also show me a thing or two.
 
-### 6. Documentation done well is a game changer.
-
-### 7. Unattended toxicity is like rust, unaddressed, it can wreak havoc on a team.
-
-### 8. Objectivity is a muscle that needs to be regularly exercised.
-
-### 9. Pay very close attention to pain points.
-
-### 10. Fail as early as you can and as often as you can (within reason of course).
-
-### 11. Legacy code is not dogma
-
-### 12. "Absorb what is useful. Reject what is useless. Add what is essentially your own."
+### To be continued...
