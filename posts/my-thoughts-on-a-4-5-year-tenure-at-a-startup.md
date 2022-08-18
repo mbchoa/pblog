@@ -7,11 +7,9 @@ date: 2022-08-14T07:49:03.231Z
 
 ### 1. Be kind.
 
-This one's kind of a no-brainer, but I find that it bears mentioning. And I don't mean being superficially kind. I mean genuine kindness. The problem is we're all human beings and we all have to deal with our own...stuff. Some people are good at separating work from the personal, but realistically they bleed into each other. There are a lot of cynics, and passive-aggressive (read: "sassy") people who choose to focus on the negative. I won't mince my words.
+This one's kind of a no brainer, but I find that it bears mentioning. And I don't mean being superficially kind. I mean genuine kindness. The problem is we're all human beings and we all have to deal with our own...stuff. Some people are good at separating work from the personal, but realistically they bleed into each other. There are a lot of cynics, and passive-aggressive (read: "sassy") people who choose to focus on the negative. It is a drain.
 
-It is a fucking drain.
-
-I'm certainly not prescribing there to be a right or wrong way to interact with your peers. But, whatever happened to "engineering with empathy"? I've also realized that it's *frighteningly* easy to fall prey to unknowingly contributing to the negativity.
+I'm certainly not prescribing there to be a right or wrong way to interact with your peers. But, whatever happened to "engineering with empathy"? I've also realized that it's *frighteningly* easy to fall prey to the toxicity. 
 
 ### 2. But don't be too kind :trollface:.
 
@@ -45,13 +43,13 @@ I've yet to encounter a manager who was well-rounded, both technically and inter
 
 **Manager A**: a member of the "old guard" from the finance world; ex-VP of a big bank; low EQ; 1:1s were pretty abysmal (to be fair, I was fresh out of college and I had no idea what kind of goals I wanted to think about let alone discuss), somewhat of a micro-manager; I knew there had to be better
 
-**Manager B**: high to very high EQ; probably almost *too* high to a fault; it was satisfying, I felt like I was actually being listened to, but, in hindsight, it was a checklist; never got to see their technical ability, but knew that they were pretty knowledgeable in DevOps
+**Manager B**: high to very high EQ; probably almost *too* high to a fault; it was satisfying, I felt like I was being listened to, but, in hindsight, it was a checklist; never got to see their technical ability, but knew that they were pretty knowledgeable in DevOps
 
 **Manager C:** straight shooter, pretty technical, they built a lot of the infrastructure I worked on, medium EQ, arrogant
 
-**Manager D:** highly technical; rolled sleeves up to get dirty, high EQ \*gasp\* but I don't think they really enjoyed being a manager; 1:1s were nice, but felt very surface level
+**Manager D:** highly technical; rolled sleeves up to get dirty, high EQ \*gasp\* but I don't think they enjoyed being a manager; 1:1s were nice, but felt very surface level
 
-All of this is pretty subjective and I recognize that any relationship, be it at work or in our personal lives, is a two-way street, so this is certainly not meant to be a knock on these wonderful people. Writing these experiences down is also not an admission of self-perfection because I am nowhere remotely to be being that. In fact, this is a bow in recognition of imperfection. I want to be hopeful of meeting a colleague who shows genuine care and can also show me a thing or two.
+All of this is pretty subjective and I recognize that any relationship, be it at work or in our personal lives, is a two-way street, so this is certainly not meant to be a knock on these wonderful people. Writing these experiences down is also not an admission of self-perfection because I am nowhere remotely to be being that. This is a bow in recognition of imperfection. I want to be hopeful of meeting a colleague who shows genuine care and can also show me a thing or two.
 
 ### 6. Documentation done well is a game changer.
 
@@ -61,7 +59,7 @@ All of this is pretty subjective and I recognize that any relationship, be it at
 
 ### 9. Pay very close attention to pain points.
 
-### 10. Fail as early as you can as often as you can (within reason of course).
+### 10. Fail as early as you can and as often as you can (within reason of course).
 
 ### 11. Legacy code is not dogma
 
