@@ -3,6 +3,12 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 footer {
   padding: 1.5rem 0;
 }
@@ -132,4 +138,12 @@ ul {
 .post {
   flex: auto;
   padding: 1.5rem;
+}
+.image-row p {
+  display: flex;
+}
+
+.image-row img {
+  width: 50%;
+  height: auto;
 }

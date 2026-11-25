@@ -1,0 +1,23 @@
+---
+import { render } from 'astro:content';
+import { getPosts, postTitle } from '../lib/posts';
+
+const posts = await Promise.all(
+  (await getPosts()).map(async (post) => ({ post, Content: (await render(post)).Content })),
+);
+---
+<section>
+  <h2 class="visually-hidden">Posts</h2>
+  <ul class="feed" role="list">
+    {posts.map(({ post, Content }) => (
+      <li class="feed__item">
+        <article class="stack">
+          <h3>
+            <a href={`/posts/${post.id}/`}>{postTitle(post.data.date)}</a>
+          </h3>
+          <Content />
+        </article>
+      </li>
+    ))}
+  </ul>
+</section>
