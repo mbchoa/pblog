@@ -2,8 +2,13 @@
   "name": "pblog",
   "version": "1.0.0",
   "description": "Personal blog",
+  "type": "module",
+  "private": true,
   "scripts": {
-    "start": "eleventy --serve"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
   },
   "repository": {
     "type": "git",
@@ -11,7 +16,7 @@
   },
   "keywords": [
     "blog",
-    "eleventy"
+    "astro"
   ],
   "author": {
     "name": "Michael-Bryant Choa",
@@ -19,12 +24,13 @@
     "url": "https://michaelchoa.com"
   },
   "license": "MIT",
-  "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "axios": "^0.24.0",
-    "clean-css": "^5.2.1",
-    "date-fns": "^2.25.0",
-    "date-fns-tz": "^1.1.6",
-    "heic-convert": "^1.2.4"
+  "dependencies": {
+    "@astrojs/markdown-satteri": "^0.4.10",
+    "astro": "^7.4.13",
+    "date-fns": "^4.4.0",
+    "date-fns-tz": "^3.2.0",
+    "gray-matter": "^4.0.3",
+    "heic-convert": "^2.1.0",
+    "sharp": "^0.35.5"
   }
 }
